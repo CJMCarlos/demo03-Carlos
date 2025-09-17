@@ -1,4 +1,3 @@
-.DS_Store
-*.log
-node_modules/
-.vscode/
+Demo #3
+
+By Carlos Movilla
